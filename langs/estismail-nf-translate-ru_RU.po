@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estismail for Ninja Forms v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-08-15 09:27:14+0000\n"
+"Last-Translator: root <treardog1@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/class-admin-notices.php:47
+#@ estismail-nf-translate
+msgid "Edit"
+msgstr ""
+
+#: include/class-admin-notices.php:50
+#@ estismail-nf-translate
+msgid "Ok"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: include/class-main-action.php:17
+#: index.php:0
+#@ estismail-nf-translate
+msgid "Estismail"
+msgstr ""
+
+#: include/class-main-action.php:22
+#@ estismail-nf-translate
+msgid "Use double opt-in?"
+msgstr ""
+
+#: include/class-main-action.php:28
+#: include/class-main-action.php:46
+#@ estismail-nf-translate
+msgid "Yes"
+msgstr ""
+
+#: include/class-main-action.php:32
+#: include/class-main-action.php:50
+#@ estismail-nf-translate
+msgid "No"
+msgstr ""
+
+#: include/class-main-action.php:40
+#@ estismail-nf-translate
+msgid "Redirect after subscription?"
+msgstr ""
+
+#: include/class-main-action.php:58
+#@ estismail-nf-translate
+msgid "Select list"
+msgstr ""
+
+#: include/class-main-field.php:12
+#@ estismail-nf-translate
+msgid "Estismail opt-in"
+msgstr ""
+
+#: include/display-menu.php:8
+#@ estismail-nf-translate
+msgid "Not connected"
+msgstr ""
+
+#: include/display-menu.php:12
+#@ estismail-nf-translate
+msgid "Invalid API key"
+msgstr ""
+
+#: include/display-menu.php:17
+#@ estismail-nf-translate
+msgid "Connected"
+msgstr ""
+
+#: include/display-menu.php:28
+#@ estismail-nf-translate
+msgid "API connection"
+msgstr ""
+
+#: include/display-menu.php:35
+#@ estismail-nf-translate
+msgid "Please, enter your API key"
+msgstr ""
+
+#: include/display-menu.php:39
+#@ estismail-nf-translate
+msgid "Connect"
+msgstr ""
+
+#: include/display-menu.php:40
+#@ estismail-nf-translate
+msgid "Get your API key"
+msgstr ""
+
+#: include/display-menu.php:41
+#@ estismail-nf-translate
+msgid "ReadMe"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: index.php:0
+#@ estismail-nf-translate
+msgid "Estismail for Ninja Forms"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: index.php:0
+#@ estismail-nf-translate
+msgid "https://estismail.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: index.php:0
+#@ estismail-nf-translate
+msgid "Integrate Estismail subscription into Ninja Forms"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: index.php:0
+#@ estismail-nf-translate
+msgid "1.0"
+msgstr ""
+
+#: index.php:86
+#@ estismail-nf-translate
+msgid "Ninja Forms should be active!"
+msgstr ""
+
+#: include/class-admin-notices.php:22
+#@ estismail-nf-translate
+msgid "Connection with current api key failed"
+msgstr ""
+
+#: include/class-admin-notices.php:24
+#@ estismail-nf-translate
+msgid "Submitting form to empty list"
+msgstr ""
+
+#: include/class-admin-notices.php:38
+#@ estismail-nf-translate
+msgid "Subscription error in"
+msgstr ""
+
+#: include/class-admin-notices.php:40
+#@ estismail-nf-translate
+msgid "with shortcode"
+msgstr ""
+

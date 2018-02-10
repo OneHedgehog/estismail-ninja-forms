@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estismail-ninja-forms v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-08-02 13:29:31+0000\n"
+"Last-Translator: root <treardog1@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/class-admin-notices.php:26
+#@ estismail-nf-translate
+msgid "name"
+msgstr ""
+
+#: include/class-admin-notices.php:28
+#@ estismail-nf-translate
+msgid "Api query:"
+msgstr ""
+
+#: include/class-admin-notices.php:28
+#@ default
+msgid "url"
+msgstr ""
+
+#: include/class-admin-notices.php:30
+#@ estismail-nf-translate
+msgid "What should i do?"
+msgstr ""
+
+#: include/class-admin-notices.php:32
+#@ estismail-nf-translate
+msgid "Check your api-key in estis account"
+msgstr ""
+
+#: include/class-admin-notices.php:33
+#@ estismail-nf-translate
+msgid "Check your lists in estis account"
+msgstr ""
+
+#: include/class-admin-notices.php:34
+#@ estismail-nf-translate
+msgid "Update estismail ninja-forms setting"
+msgstr ""
+
+#: include/class-main-action.php:23
+#@ ninja-forms
+msgid "Estismail"
+msgstr ""
+
+#: include/class-main-action.php:28
+#@ estismail-nf-translate
+msgid "Use double opt-in?"
+msgstr ""
+
+#: include/class-main-action.php:45
+#@ estismail-nf-translate
+msgid "Use estis redirect?"
+msgstr ""
+
+#: include/class-main-action.php:51
+#@ estismail-nf-translate
+msgid "Use redirect?"
+msgstr ""
+
+#: include/class-main-action.php:55
+#@ estismail-nf-translate
+msgid "Don't use redirect"
+msgstr ""
+
+#: include/class-main-action.php:63
+#@ estismail-nf-translate
+msgid "Select lists"
+msgstr ""
+
+#: include/class-main-field.php:14
+#@ estismail-nf-translate
+msgid "Estismail opt-ins"
+msgstr ""
+
+#: include/display-menu.php:9
+#@ estismail-nf-translate
+msgid "NOT CONNECTED"
+msgstr ""
+
+#: include/display-menu.php:13
+#@ estismail-nf-translate
+msgid "INVALID API KEY"
+msgstr ""
+
+#: include/display-menu.php:18
+#@ estismail-nf-translate
+msgid "CONNECTED"
+msgstr ""
+
+#: include/display-menu.php:29
+#@ estismail-nf-translate
+msgid "Connecting to Estismail by API"
+msgstr ""
+
+#: include/display-menu.php:36
+#@ estismail-wp-translate
+msgid "Please, enter the API"
+msgstr ""
+
+#: include/display-menu.php:40
+#@ estismail-nf-translate
+msgid "Confirm API key"
+msgstr ""
+
+#: include/display-menu.php:41
+#@ estismail-nf-translate
+msgid "Get your API key here"
+msgstr ""
+
+#: include/display-menu.php:56
+#@ estismail-nf-translate
+msgid "CUSTOM NINJA FORMS PAGE"
+msgstr ""
+
+#: include/display-menu.php:61
+#@ estismail-nf-translate
+msgid "What should I do?"
+msgstr ""
+
+#: include/display-menu.php:64
+#@ estismail-nf-translate
+msgid "To get the form, go to the ninja form designer here, the ninja constructor, then"
+msgstr ""
+
+#: include/display-menu.php:65
+#@ estismail-nf-translate
+msgid "Add new form"
+msgstr ""
+
+#: include/display-menu.php:66
+#@ estismail-nf-translate
+msgid "In the form field, click Add New Field"
+msgstr ""
+
+#: include/display-menu.php:67
+#@ estismail-nf-translate
+msgid "Add 'estismail opt-ins to your form"
+msgstr ""
+
+#: include/display-menu.php:68
+#@ estismail-nf-translate
+msgid "*Notice:"
+msgstr ""
+
+#: include/display-menu.php:69
+#@ estismail-nf-translate
+msgid "you must add to form at least one"
+msgstr ""
+
+#: include/display-menu.php:70
+#@ estismail-nf-translate
+msgid "Email field"
+msgstr ""
+
+#: include/display-menu.php:73
+#@ estismail-nf-translate
+msgid "Go to the \"E-mail and actions\" section and select \"Add new action\"."
+msgstr ""
+
+#: include/display-menu.php:76
+#@ estismail-nf-translate
+msgid "Add rating to action Note: if you select Default Estis Redirection, you must add an action to the end of the action list"
+msgstr ""
+
+#: index.php:69
+#@ estismail-wc-translate
+msgid "Estismail Ninja-Forms: Ninja-Forms should be active!"
+msgstr ""
+
